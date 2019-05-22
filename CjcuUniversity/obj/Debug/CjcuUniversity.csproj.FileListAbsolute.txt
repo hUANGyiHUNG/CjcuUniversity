@@ -180,3 +180,7 @@ C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.csproj.CopyComplete
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.dll
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.pdb
+C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\PagedList.dll
+C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\PagedList.Mvc.dll
+C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\PagedList.xml
+C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\PagedList.Mvc.xml
