@@ -175,7 +175,6 @@ C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\zh-Ha
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\zh-Hant\System.Web.WebPages.resources.dll
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
-C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.csprojAssemblyReference.cache
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.csproj.CoreCompileInputs.cache
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.csproj.CopyComplete
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.dll
@@ -184,3 +183,5 @@ C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\Paged
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\PagedList.Mvc.dll
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\PagedList.xml
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\PagedList.Mvc.xml
+C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.Migrations.InitialCreate.resources
+C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.csproj.GenerateResource.cache
