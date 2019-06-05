@@ -185,3 +185,7 @@ C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\Paged
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\bin\PagedList.Mvc.xml
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.Migrations.InitialCreate.resources
 C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.csproj.GenerateResource.cache
+C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.csprojAssemblyReference.cache
+C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.Migrations.ColumnFirstName.resources
+C:\Users\CJCUTW\Source\Repos\hUANGyiHUNG\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.Migrations.ComplexDataModel.resources
